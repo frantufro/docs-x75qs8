@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-d6qr04.hartawin.space/sitemap.xml
